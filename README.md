@@ -13,7 +13,7 @@ Here is an example of these samples:
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/f7/MnistExamplesModified.png)
 
 # Reliability
-The model was trained in approximately 60 seconds acheiving an accuracy of 100% and a loss value of 0.01. With more tweaks and changes to the learning rate, decay and momentum of the Optimizer SGD, you could easily lower the loss further.
+The model was trained in approximately 60 seconds achieving an accuracy of 100% and a loss value of 0.01. With more tweaks and changes to the learning rate, decay and momentum of the Optimizer SGD, you could easily lower the loss further.
 
 # Specifications
 The model consists of a vanilla neural network using the Feed-Forward method along with the Rectified Linear Unit activation function and the Softmax activation function. The model uses backpropagation with gradient descent to determine the derivates of the weights
