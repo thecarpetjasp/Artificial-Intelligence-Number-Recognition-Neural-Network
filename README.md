@@ -1,7 +1,7 @@
 # Artificial Intelligence for Number Recognition
 ## About
 
-This is a neural network created from scratch by TheCarpetJasp.
+This is a neural network created from scratch by Jack Carter.
 
 This model can correctly predict hand drawn numbers from images. It was trained on a sample of 1,300+ images with a 100% accuracy and a loss value of 0.01.
 
