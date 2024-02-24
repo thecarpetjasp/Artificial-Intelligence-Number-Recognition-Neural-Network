@@ -16,9 +16,9 @@ Here is an example of these samples:
 The model was trained in approximately 60 seconds acheiving an accuracy of 100% and a loss value of 0.01. With more tweaks and changes to the learning rate, decay and momentum of the Optimizer SGD, you could easily lower the loss further.
 
 # Specifications
-The model consists of a vanilla neural network using a forward pass along with the Rectified Linear Unit activation function and the Softmax activation function. The model uses backpropagation with gradient descent to determine the derivates of the weights
+The model consists of a vanilla neural network using a Feed-Forward method along with the Rectified Linear Unit activation function and the Softmax activation function. The model uses backpropagation with gradient descent to determine the derivates of the weights
 and biases in relation to the loss value. An optimizer using Stochastic Gradient Descent is then used to change these weights and biases accordingly.
-* Forward pass network
+* Feed-Forward network
 * Activation Functions:
    - Rectified Linear Unit
    - Softmax
