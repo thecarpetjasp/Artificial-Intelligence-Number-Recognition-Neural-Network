@@ -116,7 +116,7 @@ def AI(img):
     a1.forward(dense1.output)
     dense2.forward(a1.output)
     prediction = np.argmax(dense2.output)
-    return f'Predicting the number {prediction}'
+    print(f'Predicting the number {prediction}')
 
 def main():
     img = input("Path to image: ")
