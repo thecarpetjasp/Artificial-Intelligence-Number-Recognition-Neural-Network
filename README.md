@@ -30,4 +30,4 @@ This model could be trained on a lot more samples. I avoided using any existing 
 
 However, even with the 1,300+ samples created by myself, the model showed very consistent results, and was able to successfully predict 100% of all custom validation datasets provided to it.
 
-This model is not anything groundbreaking in the world of Artificial Intelligence. But, I hope this could serve someone well, who might be looking for some insights in to how neural networks can be built from scratch without using pre-built models from popular frameworks such as PyTorch or Tensorflow.
+This model is not anything groundbreaking in the world of Artificial Intelligence. But, I hope this could serve someone well, who might be looking for some insights on how neural networks can be built from scratch without using pre-built models from popular frameworks such as PyTorch or Tensorflow.
