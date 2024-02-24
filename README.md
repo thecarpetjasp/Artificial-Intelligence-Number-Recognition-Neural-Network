@@ -28,6 +28,6 @@ and biases in relation to the loss value. An optimizer using Stochastic Gradient
 # Notes
 This model could be trained on a lot more samples. I avoided using any existing datasets such as the [MNIST database](https://en.wikipedia.org/wiki/MNIST_database) as I wanted to build everything from the ground up including training data.
 
-However, even with the 1,300+ samples created by myself, the model showed very consistent results, and was able to successfully predict 100% of all custom validation datasets provided to it.
+However, even with the 1,300+ samples I created myself, the model showed very consistent results, and was able to successfully predict 100% of all custom validation datasets provided to it.
 
 This model is not anything groundbreaking in the world of Artificial Intelligence. But, I hope this could serve someone well, who might be looking for some insights on how neural networks can be built from scratch without using frameworks such as PyTorch or Tensorflow.
