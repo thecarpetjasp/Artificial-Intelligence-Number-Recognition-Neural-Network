@@ -1,5 +1,5 @@
-# Artificial Intelligence Neural Network Model
-## Number Recognition
+# Artificial Intelligence Neural Network Model for Number Recognition
+## About
 
 This is a neural network created from scratch by TheCarpetJasp.
 
