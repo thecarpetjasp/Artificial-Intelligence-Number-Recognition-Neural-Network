@@ -31,3 +31,9 @@ This model could be trained on a lot more samples. I avoided using any existing 
 However, even with the 1,300+ samples I created myself, the model showed very consistent results, and was able to successfully predict 100% of all custom validation datasets provided to it.
 
 This model is not anything groundbreaking in the world of Artificial Intelligence. But, I hope this could serve someone well, who might be looking for some insights on how neural networks can be built from scratch without using frameworks such as PyTorch or Tensorflow.
+
+
+# Extra
+I've also included a neural network trained on the [Kannada MNIST Dataset](https://github.com/vinayprabhu/Kannada_MNIST).
+
+Instead of using English numerals, the **Kannada MNIST Dataset** uses Kannada digits. Kannada is a language spoken predominantly by people of Karnataka in southwestern India. The language has roughly 45 million native speakers and is written using the Kannada script. [Wikipedia](https://en.wikipedia.org/wiki/Kannada)
