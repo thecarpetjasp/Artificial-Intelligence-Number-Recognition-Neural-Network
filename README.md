@@ -37,3 +37,5 @@ This model is not anything groundbreaking in the world of Artificial Intelligenc
 I've also included a neural network trained on the [Kannada MNIST Dataset](https://github.com/vinayprabhu/Kannada_MNIST).
 
 Instead of using English numerals, the **Kannada MNIST Dataset** uses Kannada digits. Kannada is a language spoken predominantly by people of Karnataka in southwestern India. The language has roughly 45 million native speakers and is written using the Kannada script. [Wikipedia](https://en.wikipedia.org/wiki/Kannada)
+
+![alt text](https://storage.googleapis.com/kaggle-media/competitions/Kannada-MNIST/kannada.png)
